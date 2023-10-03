@@ -44,13 +44,16 @@ td {
 	background: #1034a6;
 }
 .exercises {
-	background: #5a029e;
+	background: #2529f5;
 }
 .project-regular {
 	background: #015896;
 }
 .project-consult {
 	background: #003754;
+}
+.future-class {
+	background: rgb(10, 18, 31);
 }
 .footer {
 	text-align: center;
